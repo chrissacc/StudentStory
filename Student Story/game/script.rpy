@@ -10,24 +10,57 @@ define e = Character("Eileen")
 
 label start:
 
-    # Show a background. This uses a placeholder by default, but you can
-    # add a file (named either "bg room.png" or "bg room.jpg") to the
-    # images directory to show it.
+    #BACKGROUND CLOSET
 
-    scene bg room
+    #Show the story Character
 
-    # This shows a character sprite. A placeholder is used, but you can
-    # replace it by adding a file named "eileen happy.png" to the images
-    # directory.
 
-    show eileen happy
+    e "I hid in the cloest hoping they wouldn't find me under the blankets and clothes."
 
-    # These display lines of dialogue.
+    e "Keeping as still as I can."
 
-    e "You've created a new Ren'Py game."
+    #change background to have more light?
+    e "I notice a faint light coming from the floor of my closet."
 
-    e "Once you add a story, pictures, and music, you can release it to the world!"
+    #maybe change to open door
+    #show shadowy figure
 
-    # This ends the game.
+    e "The door creaked open as a shadowy figure walked in."
+
+    #show main character holding wire hangar
+
+    e "My grasp on the wire hangar tightens waiting for a clear shot."
+
+    #show shadowy figure having pearly eyes
+
+    e "Suddely the shadowy figure stop and look at me with its dark pearly eyes."
+
+    #show character with gun
+
+    e "Frozen with fear, I hesitate to shoot as its eyes stare deeper into my soul."
+
+    e "Then I just decided to run."
+
+    #BACKGROUND STAIRS
+    #show character running, or just normal character
+    e "I tried my best not to stumble down the stairs as my heart tried to jump out of my chest."
+
+    #BACKGROUND DOOR/OUTSIDE?
+
+    e "I quietly ran out of my house and went to the police."
+
+    #BACKGROUND POLICE STATION
+
+    e "The advice they gave was minimal, and no action was taken."
+
+    #show character with a different expression maybe?
+
+    e "Now I feel I must find what was watching me, I will try to hunt this creature down."
+
+    #BACKGROUND BUSHES
+
+    e "I then hid in the bushes, recording on my phone, the plan would be to catch this guy by surprise... "
+    e "but how can I catch something that is unknown..."
+    e "even if I know, I know deep down others wouldn't because the monster did not exist, it was inside me all along."
 
     return
