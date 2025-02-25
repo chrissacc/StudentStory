@@ -71,8 +71,10 @@ label start:
     pause
     e "even if I know, I know deep down others wouldn't"
     scene final2new
-    pause
-    scene final3new
     e "because the monster did not exist, it was inside me all along."
+    scene final3new
+    pause
+    scene paperstory
+    e "Story made by a collection of LIU students"
 
     return
